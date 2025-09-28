@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=plastic)
+![Profile views](https://komarev.com/ghpvc/?username=ayushichauhann&color=blue&style=plastic)
 
 # 👋 Hi, I'm Ayushi Chauhan
 
