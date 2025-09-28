@@ -4,8 +4,8 @@
 
 🚀 iOS Developer | Swift | UIKit & SwiftUI  
 
-I love building **scalable and user-friendly iOS apps**.  
-Currently working on improving my skills in **SwiftUI, Swift Concurrency, Clean Architecture and App Performance**.  
+- I love building **scalable and user-friendly iOS apps**.  
+- Currently working on improving my skills in **SwiftUI, Swift Concurrency, Clean Architecture and App Performance**.  
 
 ---
 
